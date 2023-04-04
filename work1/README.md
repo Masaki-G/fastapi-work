@@ -18,3 +18,6 @@ dockerコマンドが叩けるかを確認する
 ローカルで構築したFastAPIをdockerファイルに移行する
 
 docker-composeでFastAPIサーバーを起動させる
+
+参考資料
+- https://o2mamiblog.com/docker-beginner-2/
